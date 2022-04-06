@@ -1,0 +1,48 @@
+데이터 
+https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+
+모델링 관련 
+https://dacon.io/codeshare/4566?dtype=recent 
+
+Pycaret으로 ML모델 쉽게 만들기
+https://minimin2.tistory.com/137
+
+GridSearchCV
+https://rudolf-2434.tistory.com/10
+
+원핫인코딩, 표준화, 정규화 관련 
+https://ysyblog.tistory.com/71
+
+데이터 인사이트 얻기 
+https://dacon.io/codeshare/4494?dtype=recent
+
+datawig 범주형 데이터 결측치 처리 방법
+https://blog.naver.com/PostView.naver?blogId=dalgoon02121&logNo=222482929265&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search
+
+범주형 데이터 교차분석하기 
+https://lovelydiary.tistory.com/364
+
+데이터 왜도와 첨도를 정규화해주는 법
+https://hong-yp-ml-records.tistory.com/28
+
+데이터 변수 변환 설명
+https://lovelydiary.tistory.com/417 
+
+VIF 지수 확인하기 참고 
+https://ysyblog.tistory.com/71
+
+로그변환이 중요한 이유 
+https://dining-developer.tistory.com/18
+
+로지스틱 회귀분석 이해하기
+https://datascienceschool.net/03%20machine%20learning/10.01%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.html
+
+성능평가 참고 
+https://bhcboy100.medium.com/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%84%EB%A5%98-%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%A0%95%ED%99%95%EB%8F%84-%EC%A0%95%EB%B0%80%EB%8F%84-%EC%9E%AC%ED%98%84%EC%9C%A8-f1-%EC%8A%A4%EC%BD%94%EC%96%B4-6bf91535a01a#:~:text=F1%20score%EB%8A%94%20precision%EA%B3%BC,%EC%9D%84%20%EA%B0%96%EB%8F%84%EB%A1%9D%20%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%A8%EC%9E%85%EB%8B%88%EB%8B%A4.
+
+샘플링 ( smote)
+https://mkjjo.github.io/python/2019/01/04/smote_duplicate.html
+https://john-analyst.medium.com/smote%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%88%EA%B7%A0%ED%98%95-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5ab674ef0b32
+
+plot 이해 
+https://junklee.tistory.com/9

@@ -1,0 +1,26 @@
+CLIENTNUM', 클라이언트 번호. 계정을 보유한 고객의 고유 식별자
+'Attrition_Flag', 내부 이벤트(고객 활동) 변수 - 계정이 닫혔으면 1개(Existing Customer), 그렇지 않으면 0개
+
+'Gender', 인구 통계 변수 - M=남, F=여
+'Education_Level', 인구통계변수 - 계정주의 교육자격(예: 고등학교, 대졸 등)
+'Marital_Status', 기록 정보 변수 - 결혼, 미혼, 이혼, 알 수 없음
+'Income_Category', 인구통계학적 변수 - 계정 소유자의 연간 소득 범주(< 40,000달러, 40,000달러 - 60,000달러, 60,000달러 - 80,000달러, 80,000달러 - 120,000달러, >)
+'Card_Category',  제품 변수 - 카드 유형(파랑, 실버, 골드, 플래티넘)
+
+
+'Dependent_count', 기록 정보 변수 - 피부양자 수
+'Total_Relationship_Count', 고객이 보유한 총 제품 수
+'Months_Inactive_12_mon', 최근 12개월 동안 비활성 상태인 월 수
+'Contacts_Count_12_mon', 지난 12개월 동안의 연락처 수
+
+
+'Customer_Age', 인구통계학적 변수 - 고객의 연령(년)
+'Months_on_book', 은행과의 관계 기간
+'Credit_Limit',  신용 카드의 신용 한도
+'Total_Revolving_Bal', 신용카드 리볼빙 잔액 합계
+'Avg_Open_To_Buy', 신용 한도 구매(최근 12개월 평균)
+'Total_Amt_Chng_Q4_Q1', 거래 금액의 변동(1분기 대비 4분기)
+'Total_Trans_Amt', 총거래금액(최근 12개월)
+'Total_Trans_Ct',  총 트랜잭션 수(최근 12개월)
+'Total_Ct_Chng_Q4_Q1',  트랜잭션 수 변경(1분기 대비 4분기)
+'Avg_Utilization_Ratio', 평균 카드 사용률
